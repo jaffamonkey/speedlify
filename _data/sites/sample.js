@@ -6,7 +6,7 @@ module.exports = {
 		frequency: 1, // (in minutes)
 	},
 	urls: [
-		"https://jaffamonkey.com/",
-		"https://jaffamonkey.com/about/"
+		"https://quality-engineering.netlify.app/",
+		"https://quality-engineering.netlify.app/about/"
 	]
 };
