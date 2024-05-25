@@ -7,6 +7,6 @@ module.exports = {
 	},
 	urls: [
 		"https://jaffamonkey.com/",
-		"https://jaffamonkey.com/about"
+		"https://jaffamonkey.com/about/"
 	]
 };
