@@ -6,7 +6,7 @@ module.exports = {
 		frequency: 1, // (in minutes)
 	},
 	urls: [
-		"https://www.jaffamonkey.com/",
-		"https://www.jaffamonkey.com/about"
+		"https://jaffamonkey.com/",
+		"https://jaffamonkey.com/about"
 	]
 };
