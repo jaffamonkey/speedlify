@@ -1,5 +1,5 @@
 module.exports = {
-	name: "Sample", // optional, falls back to object key
+	name: "jaffamonkey website", // optional, falls back to object key
 	description: "The default sites that get tested",
 	options: {
 		runs: 10,
