@@ -7,6 +7,9 @@ module.exports = {
 	},
 	urls: [
 		"https://jaffamonkey.com/",
-		"https://jaffamonkey.com/about"
+		"https://jaffamonkey.com/about",
+		"https://jaffamonkey.com/skills/testing",
+		https://jaffamonkey.com/skills/accessibility",
+		https://jaffamonkey.com/skills/contact"
 	]
 };
