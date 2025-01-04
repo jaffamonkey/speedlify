@@ -3,13 +3,14 @@ module.exports = {
 	description: "The default sites that get tested",
 	options: {
 		runs: 10,
-		frequency: 30, // (in minutes)
+		frequency: 1440, // (in minutes)
 	},
 	urls: [
 		"https://jaffamonkey.com/",
 		"https://jaffamonkey.com/about",
 		"https://jaffamonkey.com/skills/testing",
 		"https://jaffamonkey.com/skills/accessibility",
+		"https://jaffamonkey.com/resources/",
 		"https://jaffamonkey.com/skills/contact"
 	]
 };
